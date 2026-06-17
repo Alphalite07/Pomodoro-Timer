@@ -1,12 +1,5 @@
-.env
-.env.local
-wsl_env
-
-node_modules
 
 node_modules
 wsl_env
 .env
 .env.local
-
-.next
